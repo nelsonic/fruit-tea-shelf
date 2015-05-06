@@ -37,3 +37,9 @@ given that the counter is always cluttered, everything starts to [*Shake, Rattle
 [*noise externalities*](http://www.econlife.com/noise-pollution-creates-negative-externalities/), but having clutter clanging on the counter totally defeats this objective!
 
 So, we are going to ***solve this***!
+
+## Proposed Solution
+
+Shared the initial sketch with people in Gitter:
+
+![shared initial sketch with people](http://i.imgur.com/vOL1bDN.png)
