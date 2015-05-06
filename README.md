@@ -19,3 +19,19 @@ On a ***good day*** the counter looks like this (*after its been "tidied"*):
 ![kitchen counter clutter](http://i.imgur.com/DwVqzle.jpg)
 
 > *Aside: Yes, the* ***lighting*** *is* ***poor*** *too, but that's another battle...*
+
+### Teas
+
+Boxes of teas & coffee are kept in the basket on top of the microwave. This was *ok* when we only had two types of tea but if each person has their preferance of tea it means accessing the one you want becomes a *game of* [***Jenga***](https://youtu.be/4w5kvC-zngY?t=4m33s)!
+
+### Fruit
+
+We do not have a designated place to put/store fruit so it often goes in a bowl/plate on the counter...
+
+
+### Blender (*currently unusable because of clutter causing clanging*)
+
+You will notice from this photo we have a [**blender**](https://www.vitamix.com/Commercial/Products/Beverage-Blenders/The-Quiet-One) on the left side of the counter. This is *integral* to our (*other*) quest to be [*healthy*](https://github.com/nelsonic/health) and make/have [***green smoothies***](https://github.com/nelsonic/health/issues/3). Sadly,
+given that the counter is always cluttered, everything starts to [*Shake, Rattle and Roll*](https://youtu.be/8B7xr_EjbzE) if we use it...
+
+So, we are going to *solve* this.
