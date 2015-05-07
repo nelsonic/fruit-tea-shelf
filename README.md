@@ -29,7 +29,7 @@ Boxes of teas & coffee are kept in the basket on top of the microwave. This was 
 We do not have a designated place to put/store fruit so it often goes in a bowl/plate on the counter...
 
 
-### Blender (*currently unusable because of clutter causes clanging*)
+### Blender (*currently unusable because clutter causes clanging*)
 
 You will notice from this photo we have a [**blender**](https://www.vitamix.com/Commercial/Products/Beverage-Blenders/The-Quiet-One) on the left side of the counter. This is *integral* to our (*other*) quest to be [*healthy*](https://github.com/nelsonic/health) and make/have [***green smoothies***](https://github.com/nelsonic/health/issues/3). Sadly,
 given that the counter is always cluttered, everything starts to [*Shake, Rattle and Roll*](https://youtu.be/8B7xr_EjbzE) if we use it... We made the *investment* of buying the
@@ -43,3 +43,9 @@ So, we are going to ***solve this***!
 Shared the initial sketch with people in Gitter:
 
 ![shared initial sketch with people](http://i.imgur.com/vOL1bDN.png)
+
+This SketchUp Sketch illustrates the idea but hides the detail.
+
+I plan to use finger joints:
+
+![finger joint dimensions](http://i.imgur.com/t9nqvfp.png)
