@@ -51,3 +51,11 @@ I plan to use finger joints:
 ![finger joint dimensions](http://i.imgur.com/t9nqvfp.png)
 
 Produced the following cutting layout:
+
+![cutting layout](https://raw.githubusercontent.com/nelsonic/fruit-tea-shelf/master/complete-sheet-for-cutting.png)
+
+Sent the email to daniel@lasercutworks.co.uk
+
+![email to lasercutworks](https://raw.githubusercontent.com/nelsonic/fruit-tea-shelf/master/email-to-lasercutworks.png)
+
+So it will be in his inbox when he arrives at work this morning.
