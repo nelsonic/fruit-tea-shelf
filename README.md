@@ -49,3 +49,5 @@ This SketchUp Sketch illustrates the idea but hides the detail.
 I plan to use finger joints:
 
 ![finger joint dimensions](http://i.imgur.com/t9nqvfp.png)
+
+Produced the following cutting layout:
