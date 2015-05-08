@@ -59,3 +59,10 @@ Sent the email to daniel@lasercutworks.co.uk
 ![email to lasercutworks](https://raw.githubusercontent.com/nelsonic/fruit-tea-shelf/master/email-to-lasercutworks.png)
 
 So it will be in his inbox when he arrives at work this morning.
+
+
+> Update: my design was *way* too detailed and would thus take 8h< on the lasercutter...
+
+I called lasercutworks and went through the design over the phone. Sadly,
+given the number of cuts and etches,
+Daniel said it would take the cutter more than 8 hours ... and at ***£1 per minute*** this shelf would cost me **£480** (*just in* ***Machine Time***! *the material cost of £36 is negligible by comparison*) so... back to the drawing ~~board~~ screen...?
