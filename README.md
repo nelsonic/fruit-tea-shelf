@@ -66,3 +66,9 @@ So it will be in his inbox when he arrives at work this morning.
 I called lasercutworks and went through the design over the phone. Sadly,
 given the number of cuts and etches,
 Daniel said it would take the cutter more than 8 hours ... and at ***£1 per minute*** this shelf would cost me **£480** (*just in* ***Machine Time***! *the material cost of £36 is negligible by comparison*) so... back to the drawing ~~board~~ screen...?
+
+A bit more research yielded the following *way* more useful template:
+
+![indesign ply tempalte](https://pbs.twimg.com/media/CEe_bWMVEAE_dxn.png)
+
+https://twitter.com/nelsonic/status/596655954428633089
