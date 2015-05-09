@@ -24,6 +24,12 @@ On a ***good day*** the counter looks like this (*after its been "tidied"*):
 
 Boxes of teas & coffee are kept in the basket on top of the microwave. This was *ok* when we only had two types of tea but if each person has their preferance of tea it means accessing the one you want becomes a *game of* [***Jenga***](https://youtu.be/4w5kvC-zngY?t=4m33s)!
 
+#### Shelf Height: 20cm
+
+measured the height of a range of tea boxes to determine how high the teas shelf needs to be:
+
+[![tea height](https://pbs.twimg.com/media/CEUZx9gWMAAGxP9.jpg)](https://twitter.com/nelsonic/status/595910881080410112)
+
 ### Fruit
 
 We do not have a designated place to put/store fruit so it often goes in a bowl/plate on the counter...
